@@ -22,8 +22,8 @@ export default class About extends Component {
                 <div className="name_title">Christian Hong</div>
                 <div className="brief_description">
                   I'm a rising senior at San Diego State University whose interested 
-                  in either full stack or cloud engineering. Feel free to reach out to me 
-                  on <a href="https://www.linkedin.com/in/christian-hong/">LinkedIn</a>
+                  in pursuing full stack or cloud engineering. Feel free to reach out to me 
+                  on <a href="https://www.linkedin.com/in/christian-hong/">LinkedIn</a>.
                 </div>
               </div>
             </div>
